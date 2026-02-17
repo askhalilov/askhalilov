@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**askhalilov/askhalilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Askar Khalilov
+**Frontend Developer** · Landing Pages · UI Motion
 
-Here are some ideas to get you started:
+Portfolio: https://<портфолио>  
+Landing Library (100+): https://<библиотека-лендингов>  
+Telegram: https://t.me/@Shiiisui  
+Email: mailto:luntickov89@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Featured
+- **Portfolio** — premium UI, typography, motion  
+  Live: https://<портфолио> · Code: https://github.com/askhalilov/<repo>
+
+- **Landing Library (100+)** — каталог всех демо с поиском  
+  Live: https://<library> · Code: https://github.com/askhalilov/<repo>
+
+- **Apple-style landing** — scroll scenes, micro-interactions  
+  Live: https://<demo> · Code: https://github.com/askhalilov/<repo>
+
+---
+
+## What I do
+- Быстро делаю продающие лендинги: адаптив, чистая верстка, UI детали
+- Motion: micro-interactions, scroll animations
+- Довожу проекты до “продуктового” вида
+
+## Tech
+`HTML` `CSS/SCSS` `JavaScript` `React` `Vite` `GSAP/Framer` `Git`
+
+## Contact
+Telegram: https://t.me/@Shiiisui  
+Email: mailto:luntickov89@gmail.com
