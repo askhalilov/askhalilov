@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Askar Khalilov — Frontend Developer" width="100%" style="border-radius: 16px;" />
+</p>
+
+
 <div align="center">
 
 # Askar Khalilov
