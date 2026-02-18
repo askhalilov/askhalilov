@@ -6,7 +6,7 @@
 **Frontend Developer** · Landing Pages · UI Motion
 
 <a href="https://github.com/askhalilov/landing-library"><b>Landing Library (100+)</b></a> ·
-<a href="https://t.me/Sihisui"><b>Telegram</b></a> ·
+<a href="https://t.me/Shiiisui"><b>Telegram</b></a> ·
 <a href="mailto:luntikov89@gmail.com"><b>Email</b></a>
 
 </div>
@@ -35,5 +35,6 @@
 `HTML` `CSS/SCSS` `JavaScript` `React` `Vite` `GSAP/Framer` `Git`
 
 ## Contact
-Telegram: https://t.me/@Shiiisui  
-Email: mailto:luntickov89@gmail.com
+<a href="https://t.me/Shiiisui"><b>Telegram</b></a> ·
+<a href="mailto:luntikov89@gmail.com"><b>Email</b></a>
+
