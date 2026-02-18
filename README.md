@@ -1,19 +1,16 @@
-<p align="center">
-  <img src="assets/banner.jpg" alt="Askar Khalilov — Frontend Developer" width="100%" style="border-radius: 16px;" />
-</p>
-
+<img src="assets/banner.jpg" width="100%" alt="Askar Khalilov — Frontend Developer" />
 
 <div align="center">
 
 # Askar Khalilov
 **Frontend Developer** · Landing Pages · UI Motion
 
-Portfolio: https://<портфолио>  
-Landing Library (100+): https://<библиотека-лендингов>  
-Telegram: https://t.me/@Shiiisui  
-Email: mailto:luntickov89@gmail.com
+<a href="https://github.com/askhalilov/landing-library"><b>Landing Library (100+)</b></a> ·
+<a href="https://t.me/Sihisui"><b>Telegram</b></a> ·
+<a href="mailto:luntikov89@gmail.com"><b>Email</b></a>
 
 </div>
+
 
 ---
 
