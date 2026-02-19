@@ -18,7 +18,7 @@
 - **Portfolio** — premium UI, typography, motion  
   Live: https://<портфолио> · Code: https://github.com/askhalilov/<repo>
 
-- **Landing Library (100+)** — каталог всех демо с поиском  
+- **Landing Library (1000+)** — каталог всех Лендингов для Google ADS с поиском  
   Live: Landing Library (1000+): https://askhalilov.github.io/landing-library/
 
 - **Apple-style landing** — scroll scenes, micro-interactions  
