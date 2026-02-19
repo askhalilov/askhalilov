@@ -5,7 +5,7 @@
 # Askar Khalilov
 **Frontend Developer** · Landing Pages · UI Motion
 
-<a href="https://github.com/askhalilov/landing-library"><b>Landing Library (100+)</b></a> ·
+<a href="https://askhalilov.github.io/landing-library/"><b>Landing Library (1000+)</b></a> ·
 <a href="https://t.me/Shiiisui"><b>Telegram</b></a> ·
 <a href="mailto:luntikov89@gmail.com"><b>Email</b></a>
 
@@ -19,7 +19,7 @@
   Live: https://<портфолио> · Code: https://github.com/askhalilov/<repo>
 
 - **Landing Library (100+)** — каталог всех демо с поиском  
-  Live: https://<library> · Code: https://github.com/askhalilov/<repo>
+  Live: Landing Library (1000+): https://askhalilov.github.io/landing-library/
 
 - **Apple-style landing** — scroll scenes, micro-interactions  
   Live: https://<demo> · Code: https://github.com/askhalilov/<repo>
