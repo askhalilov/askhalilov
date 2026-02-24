@@ -18,13 +18,13 @@
 - **Portfolio 📁** — premium UI, typography, motion  
   Live: https://askarhalilov.ru/
 
-- **Landing Library (1000+) 📚** — каталог всех Лендингов для Google ADS с поиском  
+- **Landing Library (1000+) 📚** — Каталог-портфолио всех Лендингов для Google ADS с поиском  
   Live: Landing Library (1000+): https://askhalilov.github.io/landing-library/
 
  
 ---
 
-## What I do
+## What I do 📊
 - Быстро делаю продающие лендинги: адаптив, чистая верстка, UI детали ✅ 
 - Motion: micro-interactions, scroll animations ✅ 
 - Довожу проекты до “продуктового” вида ✅ 
